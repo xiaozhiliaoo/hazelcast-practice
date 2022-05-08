@@ -36,6 +36,13 @@
             <version>5.1.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.hazelcast</groupId>
+            <artifactId>hazelcast-client</artifactId>
+            <version>3.12.12</version>
+        </dependency>
+
+
 
 
     </dependencies>
