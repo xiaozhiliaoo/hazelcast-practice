@@ -24,3 +24,5 @@ Mastering Hazelcast
 https://hazelcast.com/resources/mastering-hazelcast/
 
 https://docs.hazelcast.org/docs/4.0.1/manual/pdf/index.pdf
+
+https://jepsen.io/analyses/hazelcast-3-8-3
