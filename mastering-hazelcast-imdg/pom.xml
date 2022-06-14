@@ -35,6 +35,10 @@
             <artifactId>assertj-core</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>javax.cache</groupId>
+            <artifactId>cache-api</artifactId>
+        </dependency>
 
     </dependencies>
 
